@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Headline should render successfully 1`] = `
+<body>
+  <div>
+    <div
+      class="Headline-root-1"
+    >
+      <div
+        class="Headline-content-3"
+      >
+        <div
+          class="MuiTypography-root MuiTypography-h5"
+        >
+          test
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+`;

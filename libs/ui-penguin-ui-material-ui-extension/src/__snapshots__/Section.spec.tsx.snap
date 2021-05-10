@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Section should render successfully 1`] = `
+<body>
+  <div>
+    <div
+      class="PenguinUI__Section-root-1"
+    >
+      test
+    </div>
+  </div>
+</body>
+`;

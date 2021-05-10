@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`containers/HomeContext/actions/updateDetailDialog should updateDetailDialog should create updateDetailDialog action 1`] = `
+Object {
+  "payload": Object {
+    "status": true,
+  },
+  "type": "components/HomeContext/UPDATE_DETAIL_DIALOG",
+}
+`;

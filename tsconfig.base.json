@@ -1,0 +1,39 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "rootDir": ".",
+    "sourceMap": true,
+    "declaration": false,
+    "resolveJsonModule": true,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "importHelpers": true,
+    "target": "es2015",
+    "module": "esnext",
+    "lib": [
+      "es2017",
+      "dom"
+    ],
+    "skipLibCheck": true,
+    "skipDefaultLibCheck": true,
+    "baseUrl": ".",
+    "paths": {
+      "@penguin-ui/material-ui-extension": [
+        "libs/ui-penguin-ui-material-ui-extension/src/index.ts"
+      ],
+      "@mp-workspace/ui-material-ui-next-global": [
+        "libs/ui-material-ui-next-global/src/index.ts"
+      ],
+      "@mp-workspace/ui-next-roboto-meta-tag": [
+        "libs/ui-next-roboto-meta-tag/src/index.ts"
+      ]
+    }
+  },
+  "exclude": [
+    "node_modules",
+    "tmp"
+  ]
+}

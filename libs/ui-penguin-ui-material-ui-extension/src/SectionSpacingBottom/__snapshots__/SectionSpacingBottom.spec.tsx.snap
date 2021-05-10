@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SectionSpacingBottom should render successfully 1`] = `
+<body>
+  <div>
+    <div
+      class="makeStyles-root-1"
+    >
+       
+    </div>
+  </div>
+</body>
+`;

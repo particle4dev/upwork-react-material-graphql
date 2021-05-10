@@ -1,0 +1,11 @@
+apps/**/node_modules
+libs/**/node_modules
+node_modules
+coverage
+dist
+docs
+data
+.git
+._*
+.dockerignore
+mutagen.yml
